@@ -1,0 +1,14 @@
+
+
+.projects {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  &__project {
+    width: 192px;
+    height: 108px;
+    background-color: white;
+  }
+}
